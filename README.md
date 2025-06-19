@@ -54,11 +54,6 @@ No navegador
 
 http://localhost:8000/
 
-## DOC
-
-![Itens Atendidos na avaliação](doc/river-raid.jpg)
-
-[Itens Atendidos na avaliação](doc/river-raid.pdf)
 
 ## DEPENDÊNCIAS
 
